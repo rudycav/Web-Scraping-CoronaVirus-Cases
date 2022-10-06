@@ -1,5 +1,5 @@
 # Web-Scraping-CoronaVirus-Cases
-Scraping data for Reported COVID-19 Cases 
+- Scraping data for Reported COVID-19 Cases 
 
 The rate of COVID-19 has risen dramatically in reported cases over the world since
 the initial outbreak from Wuhan, China. As of the end of March, the pandemic has 
