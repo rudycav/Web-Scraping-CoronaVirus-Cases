@@ -4,4 +4,4 @@
 
 - Website: https://www.worldometers.info/coronavirus/
 
-![](ss/table.JPG)
+![](ss/table.jpg)
