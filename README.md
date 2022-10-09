@@ -3,3 +3,5 @@
 
 
 - Website: https://www.worldometers.info/coronavirus/
+
+![](ss/table.pdf)
