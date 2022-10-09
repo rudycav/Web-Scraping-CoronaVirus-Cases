@@ -6,10 +6,10 @@
 
 ![](ss/table.jpg)
 
-![](ss/bar.jpg)
+![](ss/bar-1.jpg)
 
-![](ss/scatterone.jpg)
+![](ss/scatterone-1.jpg)
 
-![](ss/scattertwo.jpg)
+![](ss/scattertwo-1.jpg)
 
-![](ss/scatterthree.jpg)
+![](ss/scatterthree-1.jpg)
