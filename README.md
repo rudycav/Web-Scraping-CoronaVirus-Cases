@@ -1,8 +1,9 @@
 # Web-Scraping-CoronaVirus-Cases
 - Scraping data for Reported COVID-19 Cases 
 
-
 - Website: https://www.worldometers.info/coronavirus/
+
+- Visuals are pulled from Power BI
 
 ![](ss/table.jpg)
 
