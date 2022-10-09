@@ -5,3 +5,11 @@
 - Website: https://www.worldometers.info/coronavirus/
 
 ![](ss/table.jpg)
+
+![](ss/bar.jpg)
+
+![](ss/scatterone.jpg)
+
+![](ss/scattertwo.jpg)
+
+![](ss/scatterthree.jpg)
