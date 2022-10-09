@@ -5,7 +5,7 @@
 
 - Visuals are pulled from Power BI
 
-![](ss/table.jpg)
+![](ss/table-1.jpg)
 
 - Europe accounted for 29.35% of Sum of TotalDeaths.﻿﻿
 
