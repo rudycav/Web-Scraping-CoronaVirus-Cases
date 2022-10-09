@@ -7,7 +7,7 @@
 
 ![](ss/table.jpg)
 
-Europe accounted for 29.35% of Sum of TotalDeaths.﻿﻿
+- Europe accounted for 29.35% of Sum of TotalDeaths.﻿﻿
 
 ![](ss/bar-1.jpg)
 
