@@ -12,9 +12,7 @@ from bs4 import BeautifulSoup
 from urllib.request import urlopen
 from pandas import DataFrame
 import pandas as pd
-from datetime import datetime
 import numpy as np
-import re
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
@@ -59,3 +57,4 @@ df = df.apply(punctuation_removal)
 
 #remove newline in Country column
 df['Country,Other'] = df['Country,Other'].replace(r'\n',' ', regex=True)
+
