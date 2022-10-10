@@ -5,7 +5,7 @@
 
 - Visuals are pulled from Power BI
 
-<br />
+<br /><br />
 
 ![](Project/ss/table-1.jpg)
 
