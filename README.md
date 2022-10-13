@@ -15,17 +15,17 @@
 
 <br />
 
-- USA had the highest Sum of TotalCases (98550667) and Sum of TotalDeaths (1087875). The Country (clusters) with the highest Sum of TotalCases and Sum of TotalDeaths was Cluster2.﻿﻿
+- USA had the highest Sum of TotalCases (98,550,667) and Sum of TotalDeaths (1,087,875). The Country (clusters) with the highest Sum of TotalCases and Sum of TotalDeaths was Cluster2.﻿﻿
 ﻿﻿
-﻿﻿Most Country were below 2918353 in Sum of TotalCases and below 30791 in Sum of TotalDeaths.﻿﻿
+﻿﻿Most Country were below 2,918,353 in Sum of TotalCases and below 30,791 in Sum of TotalDeaths.﻿﻿
   
 ![](Project/ss/scatterone-1.jpg)
 
 <br />
 
-- Russia had the highest NewDeaths (102) and Taiwan had the highest NewCases (44565). The Country (clusters) with the highest NewDeaths and NewCases was Cluster2.﻿﻿
+- Russia had the highest NewDeaths (102) and Taiwan had the highest NewCases (44,565). The Country (clusters) with the highest NewDeaths and NewCases was Cluster2.﻿﻿
 ﻿﻿
-﻿﻿Most Country were below 20 in NewDeaths and below 8266 in NewCases.﻿﻿
+﻿﻿Most Country were below 20 in NewDeaths and below 8,266 in NewCases.﻿﻿
 
 ![](Project/ss/scattertwo-1.jpg)
 
